@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog IT</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <div id="navbar"></div>
+
+    <!-- Hero Section -->
+    <div id="hero"></div>
+    
+
+    <!-- Posts Section -->
+    <div id="posts"></div>
+
+    <!-- Footer -->
+    <div id="footer"></div>
+
+    <!-- Scripts -->
+    <script src="js/main.js"></script>
+    <script src="js/github-api.js"></script>
+    <script src="js/search.js"></script>
+    <script>
+        // Load các thành phần từ file riêng
+        fetch('components/navbar.html').then(res => res.text()).then(data => document.getElementById('navbar').innerHTML = data);
+        fetch('components/hero.html').then(res => res.text()).then(data => document.getElementById('hero').innerHTML = data);
+        fetch('components/posts.html').then(res => res.text()).then(data => document.getElementById('posts').innerHTML = data);
+        fetch('components/footer.html').then(res => res.text()).then(data => document.getElementById('footer').innerHTML = data);
+    </script>
+</body>
+</html>
