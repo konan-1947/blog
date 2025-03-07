@@ -56,12 +56,12 @@ waitForElement("#blog-pagination", (element) => {
      // Hiển thị loading cho phần posts
      document.getElementById('blog-posts').innerHTML = `
      <div class="loading-posts" style="text-align: center;">
-         <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Loading..." style="width: 50px;">
+         <img src="./assets/img/uia.gif" alt="Loading..." style="width: 50px;">
      </div>
  `;
  document.getElementById('digress-posts').innerHTML = `
      <div class="loading-posts" style="text-align: center;">
-         <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Loading..." style="width: 50px;">
+         <img src="./assets/img/uia.gif" alt="Loading..." style="width: 50px;">
      </div>
  `;
 
