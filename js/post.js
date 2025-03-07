@@ -8,9 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
             // Loại bỏ thanh tìm kiếm trong trang post.html
             const searchBar = document.getElementById('search-bar');
             if (searchBar) searchBar.remove();
-            document.querySelectorAll(".nav-links a")[0].href = "/blog/index.html#hero";
-            document.querySelectorAll(".nav-links a")[1].href = "/blog/index.html#posts-section";
-            document.querySelectorAll(".nav-links a")[2].href = "/blog/index.html#footer";
+            document.querySelectorAll(".nav-links a")[0].href = "/index.html#hero";
+            document.querySelectorAll(".nav-links a")[1].href = "/index.html#posts-section";
+            document.querySelectorAll(".nav-links a")[2].href = "/index.html#footer";
 
         })
         .catch(error => console.error('Lỗi khi fetch navbar:', error));
