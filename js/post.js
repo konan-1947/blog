@@ -1,1 +1,56 @@
-const _0x4c6004=_0xcbf0;function _0xcbf0(_0xab4077,_0x2e6dff){const _0x4901f8=_0x4901();return _0xcbf0=function(_0xcbf01c,_0x23dccd){_0xcbf01c=_0xcbf01c-0xd8;let _0x1c3fc3=_0x4901f8[_0xcbf01c];return _0x1c3fc3;},_0xcbf0(_0xab4077,_0x2e6dff);}(function(_0x5aa675,_0x15390b){const _0x5975b0=_0xcbf0,_0x2d5635=_0x5aa675();while(!![]){try{const _0x5c451f=parseInt(_0x5975b0(0xf9))/0x1*(-parseInt(_0x5975b0(0xe4))/0x2)+-parseInt(_0x5975b0(0xdc))/0x3*(-parseInt(_0x5975b0(0xf0))/0x4)+parseInt(_0x5975b0(0xe0))/0x5+parseInt(_0x5975b0(0xe1))/0x6+-parseInt(_0x5975b0(0xef))/0x7+-parseInt(_0x5975b0(0xda))/0x8+parseInt(_0x5975b0(0xf1))/0x9;if(_0x5c451f===_0x15390b)break;else _0x2d5635['push'](_0x2d5635['shift']());}catch(_0x59be9a){_0x2d5635['push'](_0x2d5635['shift']());}}}(_0x4901,0x8c20e),document['addEventListener'](_0x4c6004(0xdd),()=>{const _0x182758=_0x4c6004;fetch(_0x182758(0xfb))[_0x182758(0x100)](_0x54cedb=>_0x54cedb['text']())['then'](_0x5443ca=>{const _0x2c0168=_0x182758;document[_0x2c0168(0xff)](_0x2c0168(0xde))[_0x2c0168(0xed)]=_0x5443ca;const _0x5eb816=document[_0x2c0168(0xff)](_0x2c0168(0x104));if(_0x5eb816)_0x5eb816['remove']();})['catch'](_0x5c7ba3=>console[_0x182758(0xf8)](_0x182758(0xe5),_0x5c7ba3)),fetch(_0x182758(0xe8))[_0x182758(0x100)](_0x19061b=>_0x19061b[_0x182758(0xe6)]())[_0x182758(0x100)](_0x1893e4=>document[_0x182758(0xff)](_0x182758(0xfc))[_0x182758(0xed)]=_0x1893e4)['catch'](_0x1ad4ee=>console['error'](_0x182758(0xf5),_0x1ad4ee));const _0x21fb09=new URLSearchParams(window[_0x182758(0x102)][_0x182758(0x101)]),_0x3906fb=_0x21fb09['get']('post'),_0x22d7c6=_0x21fb09['get'](_0x182758(0xf6)),_0x17644f=document['getElementById'](_0x182758(0xe2)),_0x3577ba=_0x182758(0xfa);_0x17644f[_0x182758(0xfe)]=''+_0x3577ba+(_0x22d7c6==='digress'?_0x182758(0xfd):'blog')+'/'+_0x3906fb;const _0x36e062=_0x182758(0xd8),_0x32975c=_0x182758(0xec);Promise[_0x182758(0xd9)]([fetch(_0x36e062)['then'](_0x49b230=>_0x49b230[_0x182758(0x103)]()),fetch(_0x32975c)[_0x182758(0x100)](_0x40f312=>_0x40f312[_0x182758(0x103)]())])['then'](([_0x3f2145,_0x58bd8b])=>{const _0x33ee91=_0x182758,_0x21feba=document['getElementById'](_0x33ee91(0xe3)),_0x318c70=[..._0x3f2145[_0x33ee91(0xe9)](_0x4c3bdb=>({..._0x4c3bdb,'type':_0x33ee91(0xf7)})),..._0x58bd8b[_0x33ee91(0xe9)](_0x3b9a74=>({..._0x3b9a74,'type':'digress'}))],_0x57bf92=_0x318c70[_0x33ee91(0xe7)](_0xa4ef06=>_0xa4ef06[_0x33ee91(0xdf)]!==_0x3906fb)[_0x33ee91(0xea)](0x0,0x5);_0x21feba[_0x33ee91(0xed)]=_0x57bf92[_0x33ee91(0xe9)](_0x5b6b47=>'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22related-post-item\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22post.html?post='+_0x5b6b47[_0x33ee91(0xdf)]+_0x33ee91(0x105)+_0x5b6b47[_0x33ee91(0xf6)]+'\x22>'+_0x5b6b47['name'][_0x33ee91(0xf4)](_0x33ee91(0xdb),'')+_0x33ee91(0xeb))[_0x33ee91(0xee)]('');})[_0x182758(0xf3)](_0x5a2f0e=>{const _0x347008=_0x182758;console['error']('Lỗi\x20khi\x20fetch\x20bài\x20viết\x20liên\x20quan:',_0x5a2f0e),document['getElementById'](_0x347008(0xe3))[_0x347008(0xed)]=_0x347008(0xf2);});}));function _0x4901(){const _0xd83544=['replace','Lỗi\x20khi\x20fetch\x20footer:','type','blog','error','29803LbMWEi','https://view.officeapps.live.com/op/embed.aspx?src=https://raw.githubusercontent.com/konan-1947/blog/main/','components/navbar.html','footer','digress','src','getElementById','then','search','location','json','search-bar','&type=','https://api.github.com/repos/konan-1947/blog/contents/blog','all','8794224tMxUTk','.docx','104958YeCsyW','DOMContentLoaded','navbar','name','2908780ALlwGH','1666524SkAvuT','post-iframe','related-posts-list','46sXbBhi','Lỗi\x20khi\x20fetch\x20navbar:','text','filter','components/footer.html','map','slice','</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','https://api.github.com/repos/konan-1947/blog/contents/digress','innerHTML','join','2237690QLpDVZ','12LyadUm','15425235ofeYgY','<p>Không\x20thể\x20tải\x20bài\x20viết\x20liên\x20quan.</p>','catch'];_0x4901=function(){return _0xd83544;};return _0x4901();}
+// Chờ DOM tải xong
+document.addEventListener('DOMContentLoaded', () => {
+    // Load navbar và footer
+    fetch('components/navbar.html')
+        .then(res => res.text())
+        .then(data => {
+            document.getElementById('navbar').innerHTML = data;
+            // Loại bỏ thanh tìm kiếm trong trang post.html
+            const searchBar = document.getElementById('search-bar');
+            if (searchBar) searchBar.remove();
+        })
+        .catch(error => console.error('Lỗi khi fetch navbar:', error));
+
+    fetch('components/footer.html')
+        .then(res => res.text())
+        .then(data => document.getElementById('footer').innerHTML = data)
+        .catch(error => console.error('Lỗi khi fetch footer:', error));
+
+    // Lấy bài viết từ URL và hiển thị trong iframe
+    const urlParams = new URLSearchParams(window.location.search);
+    const post = urlParams.get('post');
+    const type = urlParams.get('type'); // Lấy tham số type (blog hoặc digress)
+    const iframe = document.getElementById('post-iframe');
+    
+    // Điều chỉnh URL iframe dựa trên type
+    const baseUrl = 'https://view.officeapps.live.com/op/embed.aspx?src=https://raw.githubusercontent.com/konan-1947/blog/main/';
+    iframe.src = `${baseUrl}${type === 'digress' ? 'digress' : 'blog'}/${post}`;
+
+    // Fetch bài viết liên quan từ cả hai thư mục blog và digress
+    const blogUrl = 'https://api.github.com/repos/konan-1947/blog/contents/blog';
+    const digressUrl = 'https://api.github.com/repos/konan-1947/blog/contents/digress';
+
+    Promise.all([
+        fetch(blogUrl).then(res => res.json()),
+        fetch(digressUrl).then(res => res.json())
+    ])
+        .then(([blogData, digressData]) => {
+            const relatedPostsList = document.getElementById('related-posts-list');
+            // Kết hợp dữ liệu từ blog và digress
+            const allPosts = [...blogData.map(item => ({ ...item, type: 'blog' })), 
+                            ...digressData.map(item => ({ ...item, type: 'digress' }))];
+            // Lọc các bài viết khác bài hiện tại và lấy tối đa 3 bài
+            const relatedPosts = allPosts
+                .filter(item => item.name !== post) // Loại bỏ bài hiện tại
+                .slice(0, 5); // Lấy 5 bài đầu tiên
+            relatedPostsList.innerHTML = relatedPosts.map(item => `
+                <div class="related-post-item">
+                    <a href="post.html?post=${item.name}&type=${item.type}">${item.name.replace('.docx', '')}</a>
+                </div>
+            `).join('');
+        })
+        .catch(error => {
+            console.error('Lỗi khi fetch bài viết liên quan:', error);
+            document.getElementById('related-posts-list').innerHTML = '<p>Không thể tải bài viết liên quan.</p>';
+        });
+});
