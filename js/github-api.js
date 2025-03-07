@@ -21,7 +21,7 @@ function renderPosts(containerId, data, page) {
 
     container.innerHTML = paginatedData.map(item => `
         <div class="post-preview">
-            <img src="/assets/img/icon.png" alt="Post Thumbnail" class="post-thumbnail">
+            <img src="assets/img/icon.png" alt="Post Thumbnail" class="post-thumbnail">
             <div class="post-content">
                 <a href="post.html?post=${item.name}&type=${containerId === 'blog-posts' ? 'blog' : 'digress'}">${item.name.replace('.docx', '')}</a>
                 <p>Thời gian đọc khoảng: ${estimateReadingTime(item.size)} phút</p>
